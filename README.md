@@ -61,7 +61,11 @@ I operate as a **Forward-Deployed Principal Architect**, translating complex bus
 * **Architecture:** Abstract Syntax Tree (AST) static analysis linter engineered with zero external dependencies to detect masked exceptions, bare catches, and silent fallbacks.
 * **Impact:** Terminates the #1 cause of silent data corruption in distributed systems before code reaches production, seamlessly integrating as a GitHub Actions merge gate.
 
-#### 6. 🦀 The Rust Native Craft Suite — *Zero-Overhead Creative Engines*
+#### 6. ⚡ [zero-redis](https://github.com/sinergiefek/zero-redis) — *Zero-Daemon, SQLite-Backed Sliding-Window Rate Limiter & Mutex*
+* **Architecture:** In-process sliding-window rate limiting, token buckets, distributed mutexes with lease TTL, and ephemeral key-value caching backed by zero-daemon SQLite WAL.
+* **Impact:** Eliminates $15–$100/mo cloud Redis infrastructure overhead and network roundtrips for microservices, edge AI runtimes, and B2B SaaS APIs with sub-millisecond in-process latency.
+
+#### 7. 🦀 The Rust Native Craft Suite — *Zero-Overhead Creative Engines*
 Engineered from the ground up in **pure Rust** with zero legacy runtime overhead, memory safety, and predictable millisecond execution:
 * **[artcraft](https://github.com/sinergiefek/artcraft):** Intentional crafting & simulation engine for procedural digital creation.
 * **[filmcraft](https://github.com/sinergiefek/filmcraft):** High-throughput, nonlinear video editing engine with deterministic frame pipelines.
@@ -70,7 +74,7 @@ Engineered from the ground up in **pure Rust** with zero legacy runtime overhead
 * **[effectcraft](https://github.com/sinergiefek/effectcraft):** Hardware-accelerated motion graphics and compositing framework.
 * **[pdfcraft](https://github.com/sinergiefek/pdfcraft):** Low-level PDF parsing, generation, and structural verification engine.
 
-#### 7. 🏛️ Sovereign Enterprise Systems & B2B Automation
+#### 8. 🏛️ Sovereign Enterprise Systems & B2B Automation
 * **PSTACK OS:** Formalized 4-phase software lifecycle (Office Hours ➔ Engineering ➔ CEO Review ➔ Ship) enforcing byte-level data integrity, zero regression, and automated Merkle audit trails.
 * **Industrial Edge & Agrotech Telemetry:** Hardened, off-grid IoT sensor clusters and predictive bioenergetics models operating reliably under intermittent network constraints.
 
