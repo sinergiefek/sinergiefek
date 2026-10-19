@@ -30,11 +30,11 @@ I operate as a **Forward-Deployed Principal Architect**, translating complex bus
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
 │                        SOVEREIGN SWARM LAYER                           │
-│  [Entangled-MCP]  <─── Zero-Latency Telepathy Mesh ───>  [AI Agents]    │
+│  [Entangled-MCP]  <─── Zero-Latency Telepathy Mesh ───>  [AI Agents]   │
 ├────────────────────────────────────────────────────────────────────────┤
 │                       NATIVE PERFORMANCE ENGINES                       │
-│  [ArtCraft]   [FilmCraft]   [PhotoCraft]   [VectorCraft]   [EffectCraft]│
-│         ▲ Pure Rust kernels • Zero GC Pause • SIMD Acceleration ▲       │
+│ [ArtCraft]   [FilmCraft]   [PhotoCraft]   [VectorCraft]  [EffectCraft] │
+│         ▲ Pure Rust kernels • Zero GC Pause • SIMD Acceleration ▲      │
 ├────────────────────────────────────────────────────────────────────────┤
 │                      SOVEREIGN RUNTIMES & EDGE AI                      │
 │       FastAPI • Next.js • Laravel • SQLite WAL • On-Device LLMs        │
